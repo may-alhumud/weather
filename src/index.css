@@ -1,0 +1,19 @@
+body {
+  background-color: lightgray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url(https://www.limerickleader.ie/resizer/640/-1/true/1636731576678.jpg--big_change_coming_next_week_according_to_met_eireann_s_latest_weather_forecast.jpg?1636731588000);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container {
+  width: 50rem;
+}
+
+.data {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
